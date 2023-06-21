@@ -1,6 +1,6 @@
 # Sloane Lab NHM Parser
 
-This repository contains the parser that is used to import data from the NHM Data Portal into the [Sloane Lab](http://sloanelab.org/) knowledge base.
+This repository contains the parser that is used to import data from the [NHM Data Portal](https://data.nhm.ac.uk) into the [Sloane Lab](http://sloanelab.org/) knowledge base.
 
 The main code of the parser is in the Jupyter notebook [NHM_CSV_to_RDF](https://github.com/sloanelab-org/nhm-parser/blob/main/NHM_CSV_to_RDF.ipynb). The following libraries are required:
 

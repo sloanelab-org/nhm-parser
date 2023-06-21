@@ -1,0 +1,52 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:dc="http://purl.org/dc/terms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" scope="system" system="http://gbif.org" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" packageId="05ff2255-c38a-40c9-b657-4ccb55ab2feb" xml:lang="en">
+  <dataset>
+    <alternateIdentifier>32837e32e4d7b54cde7fd80084159a04910f3bfc</alternateIdentifier>
+    <alternateIdentifier>doi:10.5519/qd.fz6oz0nu</alternateIdentifier>
+    <title>Query on Natural History Museum Data Portal (data.nhm.ac.uk)</title>
+    <creator>
+      <organizationName>The Natural History Museum, London</organizationName>
+      <electronicMailAddress>data@nhm.ac.uk</electronicMailAddress>
+      <onlineUrl>https://data.nhm.ac.uk</onlineUrl>
+    </creator>
+    <creator>
+      <userId directory="https://ror.org/039zvsn29">039zvsn29</userId>
+      <organizationName>Natural History Museum</organizationName>
+    </creator>
+    <metadataProvider>
+      <organizationName>The Natural History Museum, London</organizationName>
+      <electronicMailAddress>data@nhm.ac.uk</electronicMailAddress>
+      <onlineUrl>https://data.nhm.ac.uk</onlineUrl>
+    </metadataProvider>
+    <pubDate>2023-01-18</pubDate>
+    <language>en</language>
+    <abstract>
+      <para>Query ID 32837e32e4d7b54cde7fd80084159a04910f3bfc on Natural History Museum Data Portal (data.nhm.ac.uk) (107 records).</para>
+    </abstract>
+    <keywordSet>
+      <keyword>Occurrence</keyword>
+      <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+      <para>CC0-1.0</para>
+    </intellectualRights>
+    <distribution scope="document">
+      <online>
+        <url function="information">https://data.nhm.ac.uk/doi/10.5519/10.5519/qd.fz6oz0nu</url>
+      </online>
+    </distribution>
+    <contact>
+      <organizationName>The Natural History Museum, London</organizationName>
+      <electronicMailAddress>data@nhm.ac.uk</electronicMailAddress>
+      <onlineUrl>https://data.nhm.ac.uk</onlineUrl>
+    </contact>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2023-01-18T06:22:30Z</dateStamp>
+        <citation identifier="https://doi.org/10.5519/qd.fz6oz0nu">Natural History Museum (2022). Data Portal query on 1 resources created at 2022-02-15 21:55:22.410354 PID https://doi.org/10.5519/qd.fz6oz0nu</citation>
+        <resourceLogoUrl>https://data.nhm.ac.uk/uploads/admin/logo.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

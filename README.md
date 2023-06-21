@@ -9,4 +9,4 @@ The main code of the parser is in the Jupyter notebook [NHM_CSV_to_RDF](https://
 
 The original data from the Data Atlas is stored in the [data/nhm](https://github.com/sloanelab-org/nhm-parser/tree/main/data/nhm) directory, and includes 10 NHM datasets that have been ingested into the Sloane Lab Knowledge Base.
 
-The other Jupyter notebook (NHM_JSON_to_RDF) was previously used to ingest sample data starting from the NHM JSON format.
+The other Jupyter notebook ([NHM_JSON_to_RDF](https://github.com/sloanelab-org/nhm-parser/blob/main/NHM_JSON_to_RDF.ipynb)) was previously used to ingest sample data starting from the NHM JSON format.

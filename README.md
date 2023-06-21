@@ -2,7 +2,7 @@
 
 This repository contains the parser that is used to import data from the NHM Data Atlas into the [Sloane Lab](http://sloanelab.org/) knowledge base.
 
-The main code of the parser is in the Jupyter notebook NHM_CSV_to_RDF. The following libraries are required:
+The main code of the parser is in the Jupyter notebook [NHM_CSV_to_RDF](https://github.com/sloanelab-org/nhm-parser/blob/main/NHM_CSV_to_RDF.ipynb). The following libraries are required:
 
 * [Pandas](https://pandas.pydata.org/), to manipulate and analyse the data
 * [RDFlib](http://rdflib.readthedocs.io), to create the RDF graph
